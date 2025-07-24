@@ -1,11 +1,10 @@
-## About Me
-**Hello, I am a Game Developer & Systems Designer.**<br>
+## Hi, I am a Game Developer & Systems Designer
 I'm fascinated by the process of turning complex ideas into interactive experiences, and I love exploring how to architect the rules and systems that make a world feel truly alive.<br>
 <br>
 My current journey is focused on:<br>
 ◆ Building a strong foundation in software engineering and object-oriented principles.<br>
 ◆ Diving deep into the core principles of game design and algorithms.<br>
-◆ Sketching out ideas and concepts for my first independent game.<br>
+◆ Conceptualizing and outlining the world and systems for my first independent game.<br>
 ◆ Learning the art of 3D modeling with Blender to give my ideas visual form.<br>
 <br>
 I'm on a continuous journey of learning and creation. I'm always open to connecting with fellow creators and developers. Feel free to reach out if you want to talk about system design, world-building, or if you have a project we could bring to life together. 
@@ -23,12 +22,10 @@ I'm on a continuous journey of learning and creation. I'm always open to connect
 ![Itch.io](https://img.shields.io/badge/Itch-%23000000.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-585858?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/coskuncancoban) 
 [![YouTube](https://img.shields.io/badge/YouTube-585858?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC...Kanal-IDniz) 
+[![Instagram](https://img.shields.io/badge/Instagram-585858?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/coskuncancoban) 
 [![Email](https://img.shields.io/badge/Email-585858?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coskuncancoban@gmail.com)
 
 
 ## GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=coskuncancoban&theme=dark&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coskuncancoban&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+<img src="https://nirzak-streak-stats.vercel.app/?user=coskuncancoban&theme=dark&hide_border=true" alt="GitHub Streak" width="450"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coskuncancoban&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="322">
