@@ -22,7 +22,7 @@ I'm on a continuous journey of learning and creation. I'm always open to connect
 ![Itch.io](https://img.shields.io/badge/Itch-%23000000.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ## Socials
-[![YouTube](https://img.shields.io/badge/YouTube-585858?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/coskuncancoban) 
+[![YouTube](https://img.shields.io/badge/YouTube-585858?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@coskuncancoban) 
 [![Instagram](https://img.shields.io/badge/Instagram-585858?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/coskuncancoban) 
 [![Email](https://img.shields.io/badge/Email-585858?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coskuncancoban@gmail.com)
 
